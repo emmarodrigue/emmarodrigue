@@ -1,5 +1,5 @@
 ### Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm Emma Rodrigue, a junior Computer Science student at Texas State University with a minor in Applied Mathematics.
+I'm Emma Rodrigue, a Computer Science student at Texas State University with a minor in Applied Mathematics.
 - I’m interested in software engineering and test automation!
 - Projects I'm currently working on: [hunny](https://github.com/emmarodrigue/hunny) - [spoon + fork](https://github.com/emmarodrigue/spoon_and_fork)
 - How to reach me: [emma.natalie17@gmail.com] - [enr39@txstate.edu]
