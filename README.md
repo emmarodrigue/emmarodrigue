@@ -1,7 +1,7 @@
 ### Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm Emma Rodrigue, a Computer Science student at Texas State University with a minor in Applied Mathematics.
+I'm Emma Rodrigue, a Software Development Engineer with a degree in Computer Science and Applied Mathematics from Texas State University.
 - I’m interested in software engineering and test automation!
-- How to reach me: [emma.natalie17@gmail.com] - [enr39@txstate.edu]
+- How to reach me: [emma.natalie17@gmail.com]
 
 ### Languages and Tools:
 
